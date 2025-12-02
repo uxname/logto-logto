@@ -1,3 +1,10 @@
-.idea
+# Secrets and local config
 .env
-data
+
+# Database data and logs
+data/
+logs/
+
+# System files
+.DS_Store
+.idea
